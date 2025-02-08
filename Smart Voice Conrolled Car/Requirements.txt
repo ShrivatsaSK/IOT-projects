@@ -1,0 +1,7 @@
+(1) 12V battery 
+(2) Motor driver 
+(3) Arduino Uno
+(4) Bluetooth module 
+(5) Jumper wires 
+(6) 4x Motor 
+(7) Arduino software
