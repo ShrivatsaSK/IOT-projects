@@ -7,7 +7,7 @@ int servopin = 13;
  int echoPinREVSensor = 2;
  int forwardSensorLED = 7;
  int reverseSensorLED = 11;
-int pos = 0;
+ int pos = 0;
 Servo myservo;
 SoftwareSerial BT(0, 1); //TX, RX respetively
 String readvoice;
