@@ -5,6 +5,7 @@
 	• Fan
 	• Jumper wires 
 	• Motor Driver 
+	• 5V power source for motor driver
 	• Micro-usb to USB cable 
 
 2.Software requirements 
