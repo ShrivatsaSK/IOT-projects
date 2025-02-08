@@ -22,6 +22,7 @@ pinMode(led3,OUTPUT);
 
 }
 
+
 void loop() {
 val1 = digitalRead(IR1);
 val2 = digitalRead(IR2);
