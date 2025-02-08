@@ -1,0 +1,9 @@
+1. Hardware components:-
+ 	- 5V DC input
+	- USB to micro-USB
+	- esp32 
+	- 2x YFS201 water flow sensor 
+	- Breadboard 
+	- Jumper wires 
+	- LCD with I2C 
+	- soldering gun 
