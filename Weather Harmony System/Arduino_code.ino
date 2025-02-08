@@ -1,20 +1,16 @@
-// Include the libraries
 #include <L298N.h>
 #include <DHT.h>
 #include <WiFi.h>
 #include <WebServer.h>
 #include <HTTPClient.h>
 
-// Pin definition for the motor
 const unsigned int IN1 = 18;
 const unsigned int IN2 = 19;
 const unsigned int EN = 5;
 
-// Pin definition for the DHT22 sensor
 const unsigned int DHTPIN = 15; // Pin where the DHT22 is connected
 #define DHTTYPE DHT22 // Define sensor type
 
-// Create motor and DHT22 sensor instances
 L298N motor(EN, IN1, IN2);
 DHT dht(DHTPIN, DHTTYPE);
 
