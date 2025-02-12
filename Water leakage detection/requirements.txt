@@ -7,3 +7,5 @@
 	- Jumper wires 
 	- LCD with I2C 
 	- soldering gun 
+	- 1/2 inch pipe
+	- Funnel
