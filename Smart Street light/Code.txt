@@ -10,7 +10,6 @@ int val2;
 int val3;
 int val4;
 
-
 void setup()
 {
 pinMode(IR1,INPUT);
