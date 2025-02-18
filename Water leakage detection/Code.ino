@@ -14,6 +14,7 @@ WebServer server(80);
 const char* ssid = "";
 const char* password = "";
 
+
 long previousMillis1 = 0, previousMillis2 = 0;
 int interval = 1000;
 float calibrationFactor1 = 6, calibrationFactor2 = 6;
