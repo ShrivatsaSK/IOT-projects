@@ -45,7 +45,8 @@ void setup() {
     PIN5STATUS = LOW;
     PIN6STATUS = LOW;
  }
- 
+
+
  void stopMotors()
  {
    digitalWrite(3, LOW);
