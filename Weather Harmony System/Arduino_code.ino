@@ -7,7 +7,6 @@
 const unsigned int IN1 = 18;
 const unsigned int IN2 = 19;
 const unsigned int EN = 5;
-
 const unsigned int DHTPIN = 15; // Pin where the DHT22 is connected
 #define DHTTYPE DHT22 // Define sensor type
 
