@@ -7,6 +7,7 @@ CREATE TABLE motor_data (
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+
 id: An auto-incrementing primary key.
 temperature: Stores the temperature as a floating-point number.
 motor_speed: Stores the motor speed as an integer.
