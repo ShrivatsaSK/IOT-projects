@@ -3,3 +3,5 @@ Hardware:-
   - Jumper wire
   - Arduino Uno
   - 5V input
+
+Software:-
