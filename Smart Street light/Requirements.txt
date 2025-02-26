@@ -5,3 +5,4 @@ Hardware:-
   - 5V input
 
 Software:-
+  - Arduino 
