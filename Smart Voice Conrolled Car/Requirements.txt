@@ -1,4 +1,4 @@
-Hardware:
+Hardware:-
 (1) 12V battery 
 (2) Motor driver 
 (3) Arduino Uno
