@@ -6,4 +6,4 @@ Hardware:-
 (5) Jumper wires 
 (6) 4x Motor 
 
-Software:(7) Arduino software
+Software:-(7) Arduino software
