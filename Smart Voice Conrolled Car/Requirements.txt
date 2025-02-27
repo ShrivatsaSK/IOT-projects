@@ -8,3 +8,4 @@ Hardware:-
 
 Software:-
 (7) Arduino software
+(8) BT voice 
